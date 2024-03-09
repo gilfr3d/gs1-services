@@ -4,8 +4,6 @@ import Card from "../components/Card";
 import { data } from "../services/data";
 
 function Gs1Services() {
-  const cards = new Array(9).fill(0); // Create an array of 9 elements
-
   return (
     <section className="bg-[rgb(242,249,249)]">
       {/* header  */}

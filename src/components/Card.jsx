@@ -1,5 +1,4 @@
 import React from "react";
-import { Images } from "../assets/Index";
 
 function Card({ title, subTitle, desc, icon }) {
   return (
