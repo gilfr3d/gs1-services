@@ -30,6 +30,7 @@ function Gs1Services() {
             subTitle={data.subTitle}
             desc={data.desc}
             icon={data.icon}
+            link={data.link}
           />
         ))}
       </main>
@@ -47,3 +48,5 @@ function Gs1Services() {
 }
 
 export default Gs1Services;
+
+

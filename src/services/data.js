@@ -7,6 +7,7 @@ export const data = [
         subTitle: "(Barcode & RFID)",
         desc: "Optimize your supply chain with GS1's advanced Barcode & RFID system. Enhance visibility, traceability, and operational efficiency seamlessly.",
         icon: Images.SupplyChain,
+        link: 'http://gs1ksa.org:3070'
     },
     {
         id: 2,
